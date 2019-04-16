@@ -17,3 +17,5 @@ Imports:
 	schoolmath,
 	magrittr
 RoxygenNote: 5.0.1
+URL: http://github.com/tlyons253/ARU
+BugReports: http://github.com/tlyons253/ARU/issues
