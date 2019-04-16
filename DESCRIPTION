@@ -1,0 +1,19 @@
+Package: ARU
+Title: Processing of Automatic Telemetry Data
+Version: 0.0.1.02
+Authors@R: person("Tim", "Lyons", email = "tlyons253@gmail.com", role = c("aut", "cre"))
+Description: A collection of functions to import and process automatic telemetry
+    data and to generate worklists for ARUs manufactured by JDJC corp (Fisher, IL).
+Depends:
+    R (>= 3.3.1)
+License: GPL(>=2)
+Encoding: UTF-8
+LazyData: true
+Imports:
+    dplyr,
+    lubridate,
+    xts,
+    lazyeval,
+	schoolmath,
+	magrittr
+RoxygenNote: 5.0.1
